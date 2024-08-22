@@ -1,5 +1,5 @@
 {
-  "name": "bong-go-client",
+  "name": "bongo-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
